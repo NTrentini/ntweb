@@ -1,0 +1,10 @@
+@font-face {
+                        font-family: 'rubikglitch-regular';
+                        src: url('rubikglitch-regular.eot');
+                        src: url('rubikglitch-regular.eot?#iefix') format('embedded-opentype'),
+                            url('rubikglitch-regular.woff2') format('woff2'),
+                            url('rubikglitch-regular.woff') format('woff'),
+                            url('rubikglitch-regular.svg#rubikglitch-regular') format('svg');
+                        font-weight: normal;
+                        font-style: normal;
+                    }

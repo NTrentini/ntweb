@@ -1,0 +1,10 @@
+@font-face {
+                        font-family: 'museosans-300';
+                        src: url('museosans-300.eot');
+                        src: url('museosans-300.eot?#iefix') format('embedded-opentype'),
+                            url('museosans-300.woff2') format('woff2'),
+                            url('museosans-300.woff') format('woff'),
+                            url('museosans-300.svg#museosans-300') format('svg');
+                        font-weight: normal;
+                        font-style: normal;
+                    }
