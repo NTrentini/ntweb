@@ -1,5 +1,6 @@
 
 <script >
+import { Analytics } from "@vercel/analytics/react"
 import { ref, onMounted, onBeforeUnmount } from 'vue'
 import './styles.css';
 export default {
