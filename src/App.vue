@@ -46,7 +46,7 @@ export default {
           Atualização em andamento...
       </h1>
   <p class="p-4 text-white max-w-160 align-center text-center">Olá, nosso site está em manutenção e não pode ser acessado no momento. <br/>Utilize os links abaixo para entrar em contato ou volte mais tarde</p>
-  <div class="flex flex-row items-center justify-center mt-4 px-4"> 
+  <div class="flex flex-row items-center justify-center mt-4 px-3"> 
     <a href="https://wa.me/5547999114558" target="_blank" class="text-ntorange opacity-90 hover:opacity-100 transition-opacity duration-300 mx-3"><img class="w-8 h-8" fill="currentColor" src="./assets/social/whatsapp.svg" /></a>
     <a href="mailto:ntrentini@me.com" target="_blank" class="text-ntorange opacity-90 hover:opacity-100 transition-opacity duration-300 mx-3"><img class="w-8 h-8" fill="currentColor" src="./assets/social/email.svg" /></a>
     <a href="https://www.instagram.com/ntweb.design/" target="_blank" class="text-ntorange opacity-90 hover:opacity-100 transition-opacity duration-300 mx-3"><img class="w-7 h-7" fill="currentColor" src="./assets/social/instagram.svg" /></a>
