@@ -2,7 +2,7 @@
 import '../styles.css';
 </script>
 <template>
-    <div class="navbar sticky top-0 z-50 h-12" :class="{ 'is-scrolled': isScrolled }">
+    <div class="navbar sticky top-0 z-20 h-12" :class="{ 'is-scrolled': isScrolled }">
       <div class="absolute top-0 left-0 w-full h-0 transition-all duration-300 z-[-1]" :class="{ 'h-full': isScrolled }"></div>
         <div class="container mx-auto px-4 py-5 flex items-center justify-between">
             <div class="logo">
